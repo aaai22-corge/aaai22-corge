@@ -30,6 +30,8 @@ export FIXED_CANDIDATE_PATH=[];
 ./scripts/eval_model.sh [MODEL_PATH];
 ```
 
+We also provided the automatic evaulation scripts in [jupyter notebook](https://github.com/emnlp21-corge/emnlp21-corge/blob/master/scripts/automatic_evaluations.ipynb).
+
 ## Get Inference Results from the Exemplar-based Generator
 
 ```bash
